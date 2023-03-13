@@ -40,14 +40,14 @@ monitors:
 
   - id: sapecp.ctac.nl
     name: sapecp.ctac.nl
-    url: 'https://sapecp.ctac.nl'
+    url: 'https://sapecp.ctac.nl/zfiori'
     method: GET
     expectStatus: 200
     linkable: true # allows the title to be a link, default=true
     
   - id: sapecq.ctac.nl
     name: sapecq.ctac.nl
-    url: 'https://sapecp.ctac.nl'
+    url: 'https://sapecp.ctac.nl/zfiori'
     method: GET
     expectStatus: 200
     linkable: true # allows the title to be a link, default=true
